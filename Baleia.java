@@ -8,7 +8,7 @@ package exercícioaula02;
  *
  * @author Vitória Stefany
  */
-public class Baleia extends Mamífero {
+public class Baleia extends Mamifero {
     private String especie;
 
     public String getEspecie() {

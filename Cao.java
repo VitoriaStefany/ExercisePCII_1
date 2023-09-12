@@ -8,7 +8,7 @@ package exercícioaula02;
  *
  * @author Vitória Stefany
  */
-public class Cao extends Mamífero {
+public class Cao extends Mamifero {
     
     private String raça;
     private String porte;
